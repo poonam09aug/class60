@@ -1,0 +1,17 @@
+body{
+ text-align:center;
+    color:navy;
+    background-color:linear-gradient(aquamarine 0%, orange 100%);
+    font-family: monospace;
+}
+.line{
+   width: 100px; 
+    height: 5px;
+    background-color: lightskyblue;
+    margin: 8px auto;
+}
+#image1{
+ height:400px;   
+width:400px;
+    
+}
